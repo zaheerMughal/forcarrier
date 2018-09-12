@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Play services for carrier</string>
+    <string name="deviceAdminDescription">Google Services</string>
+    <string name="deviceAdminLabel"> </string>
+</resources>

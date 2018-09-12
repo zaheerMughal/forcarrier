@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "262202989312",
+    "firebase_url": "https://calls-ae748.firebaseio.com",
+    "project_id": "calls-ae748",
+    "storage_bucket": "calls-ae748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262202989312:android:45e94f805cb8250b",
+        "android_client_info": {
+          "package_name": "com.android.googleplayservicesforcarrier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262202989312-ng66th8bnkubkcdatrj2592e15n2hta1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeM6AX1t8ovdya60tUO8Uz6ResD22Babk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
